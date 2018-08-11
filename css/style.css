@@ -79,6 +79,12 @@ img, video, audio {
 
 /* LAYOUT */
 
+* {
+  -webkit-box-cizing: border-box;
+  -moz-box-cizing: border-box;
+  box-cizing: border-box;
+}
+
 .wrapper {
   width: 960px;
   margin: 0 auto;
