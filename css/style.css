@@ -80,9 +80,9 @@ img, video, audio {
 /* LAYOUT */
 
 * {
-  -webkit-box-cizing: border-box;
-  -moz-box-cizing: border-box;
-  box-cizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 .wrapper {
